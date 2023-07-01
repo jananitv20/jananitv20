@@ -16,32 +16,36 @@ Here are some ideas to get you started:
 ## Hi 👋
 
 
-I'm **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** ; You can call me - **Jan**. .
+I'm **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** ; You can call me - **Jann**. .
 
-Having 4+ years of professional experience in IT with Masters education (MCA). 
+Having 4+ years of professional experience in IT with Masters education (MCA), 
+I secured university rank in the MCA full time program for the year 2021 - **Rank 3**
+Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of study.
 
-Working as AWS Data Engineer - Cloud & Data. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
+**Profession**
+**Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration & On-prem to Cloud Migration, I leverage my expertise in Sata architecture, analytics and AWS Services. 
 
 India Resident.
 
-Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U.
+Having domain experience in BFSI , Healthcare.
 
 
 ## 𝐓ECHNICAL SKILLS
 
 •	AWS, DevOps, CI/CD <br />
-•	Power BI, Tableau
+•	AWS Lambda, S3, Glue,Snowflake, EMR, Sagemaker,DynamoDB, RDS, Athena, Redshift
 •	Python, Terraform, PowerShell <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
-•	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
-•      Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
+•       JIRA, HP ALM, ServiceNow <br />
+•       Programming : Python , SQL, Linux <br />
+•      Agile Service Delivery <br />
 
 
 ## TECHNICAL CONTRIBUTION
 
-## AWS
+## AWS - Amazon Web Services (AWS) 
 
-- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐂𝐨𝐧𝐟𝐢𝐠?](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
+- [𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗼𝗿](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
 - [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
 - [AWS Cloud Services - AWS MGN (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)](https://blog.cloudnloud.com/aws-cloud-services-aws-mgn)
 - [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://blog.cloudnloud.com/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
@@ -55,18 +59,27 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐌𝐆𝐍 (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)?](https://www.linkedin.com/posts/sraddepalli_aws-cloud-services-mgn-activity-6958126395973632002-FaUo/)
 
 
-## Terraform
+## BLOGS
+- [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
+- [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://medium.com/@JananiTV/aws-glue-explained-the-etl-process-in-cloud-679241d2db9b)   
+- [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱)]https://medium.com/cloudnloud/ci-cd-pipeline-flow-explained-%EF%B8%8F-24fa6e26824f)
 
-- [𝐖𝐡𝐲 𝐢𝐬 𝐭𝐡𝐞 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐬𝐭𝐚𝐭𝐞 𝐬𝐨 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐟𝐨𝐫 𝐦𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐢𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞?](https://www.linkedin.com/posts/sraddepalli_cloudnloud-terraform-cloud-activity-7037862917513355265-Il7N/)
+  **Upcoming Blog**
+How business can make Decision on chossing Databases in AWS
+
+## AWS TECH SHOWS ORGANIZED BY ME :)
 
 
 
-## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
-## ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫
+## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
+
+## ROLE: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿
 
 <P>
-I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in Cloud Operatoins Category. I have been contributing to the communities by participating in technical events, sharing the Technical Content, Technical blogs, LinkedIn Technical Posts and LinkedIn documents.
+I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 in Cloud Operatoins Category. I have been contributing to the communities by participating in:
+•       AWS Technical events <br />
+	AWS technical events, AWS SUMMIT Mumbai event , sharing the AWS Technical Content, Technical blogs, LinkedIn Technical Posts and LinkedIn documents.
 
 </p>
 
@@ -74,7 +87,7 @@ I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢�
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 / Leader
 
 <P>
-I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
+I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team and Leading AWS Data team.
 
 The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
 
