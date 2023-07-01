@@ -44,7 +44,7 @@ Having domain experience in BFSI , Healthcare.
 •      Agile Service Delivery <br /> 
 
 
-## TECHNICAL CONTRIBUTION
+## My TECHNICAL CONTRIBUTION
 
 ## AWS - Amazon Web Services (AWS) 
 
@@ -52,12 +52,39 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - Data Bricks on AWS (Data Bricks on AWS)](https://shorturl.ac/7an5e)
 - [AWS Cloud Services - AWS S3 (S3 Core Concepts)](https://shorturl.ac/7an5f)
 - [AWS Cloud Services - (Lambda vs Glue)](https://shorturl.ac/7an5g)
-- [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://blog.cloudnloud.com/aws-cloud-services-pillars-of-aws-well-architected-framework)
-- [Security best practices of Amazon S3](https://blog.cloudnloud.com/security-best-practices-of-amazon-s3)
-- [Connect on-premises network securely to the AWS Cloud](https://blog.cloudnloud.com/connect-on-premises-network-securely-to-the-aws-cloud)
-- [AWS Control Tower Overview & Set up](https://blog.cloudnloud.com/aws-control-tower-overview-set-up)
-- [AWS Purpose-built databases Use Cases](https://blog.cloudnloud.com/aws-purpose-built-databases-use-cases)
-- [AWS Global Accelerator](https://blog.cloudnloud.com/aws-global-accelerator)
+- [AWS Cloud Services - AWS SUMMIT](https://shorturl.ac/7an5k)
+- [AWS Cloud Services -  Amazon Athena and Redshift to Query]([https://shorturl.ac/7an5l)
+- [AWS Cloud Services - NoSQL database series in AWS](https://shorturl.ac/7an5n)
+- [AWS Educator - AWS Skill builder - AWS Workshop - AWS Console](https://shorturl.ac/7an5p)
+- [AWS Cloud Services - AWS Data Pipeline](https://shorturl.ac/7an5q)
+- [AWS Cloud Services - AWS Postgre SQL](https://shorturl.ac/7an5u)
+- [AWS Cloud Services - AWS Aurora](https://shorturl.ac/7an5y)
+- [AWS Cloud Services - Amazon RDS Series](https://shorturl.ac/7an60)
+- [AWS Cloud Services - AWS Latest Availability zone and Geographic regions](https://shorturl.ac/7an6e)
+- [AWS Cloud Services - AWS Web Application Firewall](https://shorturl.ac/7an6g)
+- [AWS Cloud Services - Amazon ECS on AWS Gargate](https://shorturl.ac/7an68)
+- [AWS Cloud Services - AWS DatawareHouse vs Data lake](https://shorturl.ac/7an63)
+- [AWS Cloud Services - Data lake on AWS](https://shorturl.ac/7an64)
+- [AWS Cloud Services - AWS Top 10 Services for Data Engineers](https://shorturl.ac/7an66)
+- [AWS Cloud Services - AWS 100daysdata challenge](https://shorturl.ac/7an67)
+- [AWS Cloud Services - Generative AI](https://shorturl.ac/7an5w)
+- [AWS Cloud Services - Organized AWS #techtalk show with AWS Amabassador and AWS Community Leaders](https://shorturl.ac/7an69)
+- [AWS Cloud Services - Amazon Sagemaker](https://shorturl.ac/7an6b)
+- [AWS Cloud Services - Amazon Redshift Example](https://t.ly/Fvqo)
+- [AWS Cloud Services - CloudnLoud Tech Community Virtual Meetup world wide](https://shorturl.ac/7an6c)  
+- [AWS Cloud Services - Factors to know while choosing your Database in AWS](https://shorturl.ac/7an6d)
+- [AWS Cloud Services - Amazon Redshift - A Cloud Dataware house Solution](https://shorturl.ac/7an6j)
+- 
+
+
+
+
+- [AWS Cloud Services - AWSDiscussion on Route 53](https://shorturl.ac/7an6l)
+- [AWS Cloud Services - Amazon Redshift Example](https://t.ly/Fvqo)
+
+
+
+    
 - [Why should we use 𝐀𝐌𝐏 (𝐀𝐦𝐚𝐳𝐨𝐧 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐟𝐨𝐫 𝐏𝐫𝐨𝐦𝐞𝐭𝐡𝐞𝐮𝐬?](https://www.linkedin.com/posts/sraddepalli_aws-cloud-core-services-amp-in-aws-activity-6953409256582750208-DDCn)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐌𝐆𝐍 (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)?](https://www.linkedin.com/posts/sraddepalli_aws-cloud-services-mgn-activity-6958126395973632002-FaUo/)
 
