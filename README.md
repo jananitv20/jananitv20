@@ -41,7 +41,7 @@ Having domain experience in BFSI , Healthcare.
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •       JIRA, HP ALM, ServiceNow <br />
 •       Programming : Python , SQL, Linux <br />
-•      Agile Service Delivery <br />
+•      Agile Service Delivery <br /> 
 
 
 ## TECHNICAL CONTRIBUTION
