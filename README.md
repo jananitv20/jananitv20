@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="[gify](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)" width="300"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </div>
 <div id="header" align="center">
-
+	
 <!--
 **jananitv20/jananitv20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
