@@ -48,7 +48,7 @@ Having domain experience in BFSI , Healthcare.
 
 ## AWS - Amazon Web Services (AWS) 
 
-- [𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗼𝗿](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻
 - [AWS Cloud Services - Data Bricks on AWS (Data Bricks on AWS)](https://shorturl.ac/7an5e)
 - [AWS Cloud Services - AWS S3 (S3 Core Concepts)](https://shorturl.ac/7an5f)
 - [AWS Cloud Services - AWS VPC and its Components Explained](https://rb.gy/1w872)
@@ -97,14 +97,7 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - AWS Steps to deploy and Manage application using Beanstalk](https://t.ly/gaXQ)
 - [AWS Cloud Services - How to use AWS Ealstic Beanstalk](https://shorturl.ac/7an7d)
 - [AWS Cloud Services -AWS Lambda now supports Maximun Concurrency for SQS as an Event source ](https://shorturl.ac/7an79)
-
-
-
-- [AWS Cloud Services - AWS S#]https://rb.gy/m3bpz)
-
-
-  - 
-    - - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)  
+- [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)  
 
 
 
