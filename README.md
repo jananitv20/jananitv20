@@ -99,7 +99,6 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)  
 
 
-
 ## BLOGS
 
 - [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
@@ -129,7 +128,10 @@ I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁�
 •  [AWS SUMMIT Mumbai event certificate](https://www.linkedin.com/posts/jananitv_awssummit2023-certificate-awscloud-activity-7074670499116564480-m7Y-?utm_source=share&utm_medium=member_desktop)<br />
 •  [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://www.linkedin.com/posts/jananitv_awssummit2023-certificate-awscloud-activity-7074670499116564480-m7Y-?utm_source=share&utm_medium=member_desktop) <br />
 •  [AWS Video on Interviewing Senior AWS Architect (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop) <br />  
-•  [(𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝗦𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗖𝗮𝗿𝗲𝗲𝗿 𝘄𝗶𝘁𝗵 𝗔𝗺𝗮𝘇𝗼𝗻 𝗪𝗲𝗯 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 - 𝗔𝗪𝗦)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop)
+
+- [AWS Video on Interviewing Senior AWS Architect](pls fill)
+
+- [5 Steps to start your career in Amazon Web Service -AWS ](https://rb.gy/5xqml)
 - [I Demonstrated a video handson to create EC2 instance and interact with linux Commands ](https://shorturl.ac/7an71)
 - [AWS Cloud Services - 6 Reasons why Cloud Computing is Future](https://shorturl.ac/7an7i)
 - [My Oscar Award from AWS Community Builder](https://rb.gy/vcu3h)
