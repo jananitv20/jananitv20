@@ -130,8 +130,6 @@ I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁�
 - [My Oscar Award from AWS Community Builder](https://rb.gy/vcu3h)
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)  
 
-  
-
 
 ## ROLE: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / CLoud Data Specialist
 
