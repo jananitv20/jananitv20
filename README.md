@@ -21,9 +21,9 @@ I'm **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** ; You ca
 Having 4+ years of professional experience in IT with Masters education (MCA), 
 I secured University Rank in MCA a full time program in the year 2021 - **Rank 3**
 Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of education.
-**𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧** <br />
+<br /> **𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧** <br />
 **Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration & On-prem to Cloud Migration, I leverage my expertise in Data architecture, Data analytics , Data Engineering and AWS Services. 
-Also Volunteering CloudnLoud Tech Community and AWS Data user Group Bangalore.
+Also Volunteering CloudnLoud Tech Community and AWS Data user Group Bangalore. <br />
 👩‍💻I am incredibly passionate about **AWS Cloud** and its transformative potential in the world of technology.The power and scalability it offers to businesses, coupled with its vast array of services, continue to inspire me.  I am delighted to share that **I am leading the AWS Data team in the esteemed Cloudnloud Tech Community**. My Aim is to empower and nurture future #aws Leaders in the field of data.
 🚀 🌱I am actively **journeying to various colleges to shape the Future Generation to be skilled professionals in #awscloud** . Im open to travel and visit colleges I am eager to impart my knowledge and expertise to students.👩‍🎓
 It's a privilege to work with team who not only possesses technical expertise but also demonstrates outstanding interpersonal skills that positively impact both professional relationships and project outcomes.
