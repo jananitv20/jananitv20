@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 ## Hi 👋
 
 
-I'm **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** ; You can call me - **Jann**. .
+I'm **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** ; You can call me - **Jann**..
 
 Having 4+ years of professional experience in IT with Masters education (MCA), 
 I secured university rank in the MCA full time program for the year 2021 - **Rank 3**
 Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of study.
 
-**Profession**
+**Profession** <br />
 **Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration & On-prem to Cloud Migration, I leverage my expertise in Sata architecture, analytics and AWS Services. 
 
 India Resident.
