@@ -36,7 +36,7 @@ Having domain experience in BFSI , Healthcare.
 ## 𝐓ECHNICAL SKILLS
 
 •	AWS, DevOps, CI/CD <br />
-•	AWS Lambda, S3, Glue,Snowflake, EMR, Sagemaker,DynamoDB, RDS, Athena, Redshift
+•	AWS Lambda, S3, Glue,Snowflake, EMR, Sagemaker,DynamoDB, RDS, Athena, Redshift, IAM, VPC
 •	Python, Terraform, PowerShell <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •       JIRA, HP ALM, ServiceNow <br />
@@ -51,10 +51,14 @@ Having domain experience in BFSI , Healthcare.
 - [𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗼𝗿](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
 - [AWS Cloud Services - Data Bricks on AWS (Data Bricks on AWS)](https://shorturl.ac/7an5e)
 - [AWS Cloud Services - AWS S3 (S3 Core Concepts)](https://shorturl.ac/7an5f)
+- [AWS Cloud Services - AWS VPC and its Components Explained](https://rb.gy/1w872)
 - [AWS Cloud Services - (Lambda vs Glue)](https://shorturl.ac/7an5g)
+- [AWS Cloud Services - AWS Lambda Working flow](https://t.ly/79zZY)
 - [AWS Cloud Services - AWS SUMMIT](https://shorturl.ac/7an5k)
 - [AWS Cloud Services -  Amazon Athena and Redshift to Query]([https://shorturl.ac/7an5l)
 - [AWS Cloud Services - NoSQL database series in AWS](https://shorturl.ac/7an5n)
+- [AWS Cloud Services - AWS ECR Security](https://shorturl.ac/7an7j)
+- [AWS Cloud Services - AWS Security Management -IAM](https://rb.gy/qx9vv) 
 - [AWS Educator - AWS Skill builder - AWS Workshop - AWS Console](https://shorturl.ac/7an5p)
 - [AWS Cloud Services - AWS Data Pipeline](https://shorturl.ac/7an5q)
 - [AWS Cloud Services - AWS Postgre SQL](https://shorturl.ac/7an5u)
@@ -63,7 +67,10 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - AWS Latest Availability zone and Geographic regions](https://shorturl.ac/7an6e)
 - [AWS Cloud Services - AWS Web Application Firewall](https://shorturl.ac/7an6g)
 - [AWS Cloud Services - Amazon ECS on AWS Gargate](https://shorturl.ac/7an68)
+- [AWS Cloud Services - AWS Elastic Beanstalk](https://shorturl.ac/7an77)
+- [AWS Cloud Services - AWS S3 Bucket Versioning with Example](https://rb.gy/m3bpz)  
 - [AWS Cloud Services - AWS DatawareHouse vs Data lake](https://shorturl.ac/7an63)
+- [AWS Cloud Services - AWS Storage and its types](https://rb.gy/6k5vx)  
 - [AWS Cloud Services - Data lake on AWS](https://shorturl.ac/7an64)
 - [AWS Cloud Services - AWS Top 10 Services for Data Engineers](https://shorturl.ac/7an66)
 - [AWS Cloud Services - AWS 100daysdata challenge](https://shorturl.ac/7an67)
@@ -75,29 +82,38 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - Factors to know while choosing your Database in AWS](https://shorturl.ac/7an6d)
 - [AWS Cloud Services - Amazon Redshift - A Cloud Dataware house Solution](https://shorturl.ac/7an6j)
 - [AWS Cloud Services - Amazon EC2 Mac instance](https://shorturl.ac/7an6n)
+- [AWS Cloud Services - AWS Roadmap to purse Certificate based on levels](https://rb.gy/078rj)
 - [AWS Cloud Services - AWS Training & Certification](https://shorturl.ac/7an6p)
 - [AWS Cloud Services - AWS Snowflake](https://shorturl.ac/7an6s)
+- [AWS Cloud Services - AWS Storage and its types](https://rb.gy/6k5vx)  
 - [AWS Cloud Services - Amazon Kubernetes Service](https://shorturl.ac/7an6w)  
 - [AWS Cloud Services - Amazon CodeWhisperer](https://shorturl.ac/7an6s)
 - [AWS Cloud Services - Amazon EC2 Auto Scaling](https://shorturl.ac/7an6x)
 - [AWS Cloud Services - How AWS Glue works](https://shorturl.ac/7an6y)
 - [AWS Cloud Services - AWS Data Analytics](https://shorturl.ac/7an70)
+- [AWS Cloud Services - AWS S3 Bucket Takeover Vulnerability](https://shorturl.ac/7an74) 
+- [AWS Cloud Services - AWS Cloudwatch](https://shorturl.ac/7an79)  
+- [AWS Cloud Services - AWS Service categories Roadmap](https://t.ly/Wkyf)
+- [AWS Cloud Services - AWS Steps to deploy and Manage application using Beanstalk](https://t.ly/gaXQ)
+- [AWS Cloud Services - How to use AWS Ealstic Beanstalk](https://shorturl.ac/7an7d)
+- [AWS Cloud Services -AWS Lambda now supports Maximun Concurrency for SQS as an Event source ](https://shorturl.ac/7an79)
 
-- [AWS Cloud Services - AWS Data Analytics](https://shorturl.ac/7an70)
-  
 
 
+- [AWS Cloud Services - AWS S#]https://rb.gy/m3bpz)
 
 
-    
-- [Why should we use 𝐀𝐌𝐏 (𝐀𝐦𝐚𝐳𝐨𝐧 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐟𝐨𝐫 𝐏𝐫𝐨𝐦𝐞𝐭𝐡𝐞𝐮𝐬?](https://www.linkedin.com/posts/sraddepalli_aws-cloud-core-services-amp-in-aws-activity-6953409256582750208-DDCn)
-- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐌𝐆𝐍 (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)?](https://www.linkedin.com/posts/sraddepalli_aws-cloud-services-mgn-activity-6958126395973632002-FaUo/)
+  - 
+    - - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)  
+
 
 
 ## BLOGS
+
 - [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
 - [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://medium.com/@JananiTV/aws-glue-explained-the-etl-process-in-cloud-679241d2db9b)   
 - [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱)](https://medium.com/cloudnloud/ci-cd-pipeline-flow-explained-%EF%B8%8F-24fa6e26824f)
+- [Reviewed an AWS Article (𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿 𝗮 𝟯-𝘁𝗶𝗲𝗿 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲)](https://shorturl.ac/7an7f)          
 
   **Upcoming Blog** <br />
 How business can make Decision on chossing Databases in AWS <br />
@@ -114,11 +130,16 @@ I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁�
 •  [AWS SUMMIT Mumbai event certificate](https://www.linkedin.com/posts/jananitv_awssummit2023-certificate-awscloud-activity-7074670499116564480-m7Y-?utm_source=share&utm_medium=member_desktop)<br />
 •  [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://www.linkedin.com/posts/jananitv_awssummit2023-certificate-awscloud-activity-7074670499116564480-m7Y-?utm_source=share&utm_medium=member_desktop) <br />
 •  [AWS Video on Interviewing Senior AWS Architect (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop) <br />  
-•  [(𝟱 𝗸𝗲𝘆 𝗽𝗼𝗶𝗻𝘁𝘀 𝗩𝗶𝗱𝗲𝗼 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗔𝗪𝗦 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗯𝘆 𝗷𝗮𝗻𝗮𝗻𝗶𝘁𝘃)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop)
-- [AWS Cloud Services - Demonstrated a video handson to create EC2 instance and interact with linux Commands ](https://shorturl.ac/7an71)
+•  [(𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝗦𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗖𝗮𝗿𝗲𝗲𝗿 𝘄𝗶𝘁𝗵 𝗔𝗺𝗮𝘇𝗼𝗻 𝗪𝗲𝗯 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 - 𝗔𝗪𝗦)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop)
+- [I Demonstrated a video handson to create EC2 instance and interact with linux Commands ](https://shorturl.ac/7an71)
+- [AWS Cloud Services - 6 Reasons why Cloud Computing is Future](https://shorturl.ac/7an7i)
+- [My Oscar Award from AWS Community Builder](https://rb.gy/vcu3h)
+- [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)  
+
+  
 
 
-## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 / Leader
+## ROLE: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / CLoud Data Specialist
 
 <P>
 I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team and Leading AWS Data team.
