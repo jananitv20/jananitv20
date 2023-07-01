@@ -79,7 +79,9 @@ Having domain experience in BFSI , Healthcare.
 
 
 
-- [AWS Cloud Services - AWSDiscussion on Route 53](https://shorturl.ac/7an6l)
+- [AWS Cloud Services - Amazon EC2 Mac instance](https://shorturl.ac/7an6n)
+- [AWS Cloud Services - AWS Training & Certification](https://shorturl.ac/7an6p)
+- [AWS Cloud Services - Amazon Redshift Example](https://t.ly/Fvqo)
 - [AWS Cloud Services - Amazon Redshift Example](https://t.ly/Fvqo)
 
 
