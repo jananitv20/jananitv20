@@ -44,9 +44,7 @@ Having domain experience in BFSI , Healthcare.
 •      Agile Service Delivery <br /> 
 
 
-## My TECHNICAL CONTRIBUTION
-
-## AWS - Amazon Web Services (AWS) 
+## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
 
   𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻
 - [AWS Cloud Services - Data Bricks on AWS (Data Bricks on AWS)](https://shorturl.ac/7an5e)
@@ -111,6 +109,10 @@ Having domain experience in BFSI , Healthcare.
 
   **Upcoming Blog** <br />
 How business can make Decision on chossing Databases in AWS <br />
+
+
+## 𝗠𝘆 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝘁𝗼 𝗺𝗲𝗻𝘁𝗼𝗿 𝗬𝗼𝘂𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗔𝗪𝗦𝗖𝗟𝗢𝗨𝗗
+
 
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
