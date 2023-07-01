@@ -115,6 +115,8 @@ How business can make Decision on chossing Databases in AWS <br />
 **AWS Resource Person for College**
 - [CTTE College for Women   - AWS Cloud , Career, AWS mini Projects](https://rb.gy/h791j)
 - [Jaya Engineering College - AWS Cloud , Career, AWS mini Projects](https://rb.gy/rru8x)
+  meetup image:
+![Meetup certificate](https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg)
 
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
