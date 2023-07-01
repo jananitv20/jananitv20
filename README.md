@@ -54,7 +54,6 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - AWS Lambda Working flow](https://t.ly/79zZY)
 - [AWS Cloud Services - AWS SUMMIT](https://shorturl.ac/7an5k)
 - [AWS Cloud Services - Amazon Athena and Redshift to Query](https://shorturl.ac/7an5l)
-- [AWS Cloud Services -  Amazon Athena and Redshift to Query]([https://shorturl.ac/7an5l)
 - [AWS Cloud Services - NoSQL database series in AWS](https://shorturl.ac/7an5n)
 - [AWS Cloud Services - AWS ECR Security](https://shorturl.ac/7an7j)
 - [AWS Cloud Services - AWS Security Management -IAM](https://rb.gy/qx9vv) 
@@ -71,6 +70,7 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - AWS DatawareHouse vs Data lake](https://shorturl.ac/7an63)
 - [AWS Cloud Services - AWS Storage and its types](https://rb.gy/6k5vx)  
 - [AWS Cloud Services - Data lake on AWS](https://shorturl.ac/7an64)
+- [AWS Cloud Services - S3 Storage Classes ](https://rb.gy/r7xf4)
 - [AWS Cloud Services - AWS Top 10 Services for Data Engineers](https://shorturl.ac/7an66)
 - [AWS Cloud Services - AWS 100daysdata challenge](https://shorturl.ac/7an67)
 - [AWS Cloud Services - Generative AI](https://shorturl.ac/7an5w)
@@ -113,6 +113,9 @@ How business can make Decision on chossing Databases in AWS <br />
 
 ## 𝗠𝘆 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝘁𝗼 𝗺𝗲𝗻𝘁𝗼𝗿 𝗬𝗼𝘂𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗔𝗪𝗦𝗖𝗟𝗢𝗨𝗗
 
+**AWS Resource Person for College**
+- [CTTE College for Women   - AWS Cloud , Career, AWS mini Projects](https://rb.gy/h791j)
+- [Jaya Engineering College - AWS Cloud , Career, AWS mini Projects](https://rb.gy/rru8x)
 
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
