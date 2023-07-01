@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 I'm **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** ; You can call me - **Jann**..
 
 Having 4+ years of professional experience in IT with Masters education (MCA), 
-I secured university rank in the MCA full time program for the year 2021 - **Rank 3**
-Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of study.
-
-**Profession** <br />
-
-**Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration & On-prem to Cloud Migration, I leverage my expertise in Sata architecture, analytics and AWS Services. 
+I secured University Rank in MCA a full time program in the year 2021 - **Rank 3**
+Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of education.
+**𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧** <br />
+**Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration & On-prem to Cloud Migration, I leverage my expertise in Data architecture, Data analytics , Data Engineering and AWS Services. 
+Also Volunteering CloudnLoud Tech Community and AWS Data user Group Bangalore.
+👩‍💻I am incredibly passionate about **AWS Cloud** and its transformative potential in the world of technology.The power and scalability it offers to businesses, coupled with its vast array of services, continue to inspire me.  I am delighted to share that **I am leading the AWS Data team in the esteemed Cloudnloud Tech Community**. My Aim is to empower and nurture future #aws Leaders in the field of data.
+🚀 🌱I am actively **journeying to various colleges to shape the Future Generation to be skilled professionals in #awscloud** . Im open to travel and visit colleges I am eager to impart my knowledge and expertise to students.👩‍🎓
+It's a privilege to work with team who not only possesses technical expertise but also demonstrates outstanding interpersonal skills that positively impact both professional relationships and project outcomes.
 
 India Resident.
 
@@ -63,14 +65,10 @@ Having domain experience in BFSI , Healthcare.
 ## BLOGS
 - [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
 - [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://medium.com/@JananiTV/aws-glue-explained-the-etl-process-in-cloud-679241d2db9b)   
-- [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱)]https://medium.com/cloudnloud/ci-cd-pipeline-flow-explained-%EF%B8%8F-24fa6e26824f)
+- [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱)](https://medium.com/cloudnloud/ci-cd-pipeline-flow-explained-%EF%B8%8F-24fa6e26824f)
 
   **Upcoming Blog**
 How business can make Decision on chossing Databases in AWS
-
-## AWS TECH SHOWS ORGANIZED BY ME :)
-
-
 
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
@@ -78,12 +76,14 @@ How business can make Decision on chossing Databases in AWS
 ## ROLE: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿
 
 <P>
-I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 in Cloud Operatoins Category. I have been contributing to the communities by participating in:
-•       AWS Technical events <br />
-	AWS technical events, AWS SUMMIT Mumbai event , sharing the AWS Technical Content, Technical blogs, LinkedIn Technical Posts and LinkedIn documents.
+I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 in Cloud Operatoins Category. I have been contributing to the communities by teaching AWS in simple ways and clarifying doubts with respect to AWS Data and the services to be used:
 
-</p>
+•  [My Technical AWS Event with AWS Ambassador alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop)    
 
+•  [AWS SUMMIT Mumbai event certificate](https://www.linkedin.com/posts/jananitv_awssummit2023-certificate-awscloud-activity-7074670499116564480-m7Y-?utm_source=share&utm_medium=member_desktop)
+•  [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://www.linkedin.com/posts/jananitv_awssummit2023-certificate-awscloud-activity-7074670499116564480-m7Y-?utm_source=share&utm_medium=member_desktop)
+•  [AWS Video on Interviewing Senior AWS Architect (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop)   
+•  [(𝟱 𝗸𝗲𝘆 𝗽𝗼𝗶𝗻𝘁𝘀 𝗩𝗶𝗱𝗲𝗼 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗔𝗪𝗦 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗯𝘆 𝗷𝗮𝗻𝗮𝗻𝗶𝘁𝘃)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop)
 
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 / Leader
 
