@@ -74,15 +74,18 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - CloudnLoud Tech Community Virtual Meetup world wide](https://shorturl.ac/7an6c)  
 - [AWS Cloud Services - Factors to know while choosing your Database in AWS](https://shorturl.ac/7an6d)
 - [AWS Cloud Services - Amazon Redshift - A Cloud Dataware house Solution](https://shorturl.ac/7an6j)
-- 
-
-
-
-
 - [AWS Cloud Services - Amazon EC2 Mac instance](https://shorturl.ac/7an6n)
 - [AWS Cloud Services - AWS Training & Certification](https://shorturl.ac/7an6p)
-- [AWS Cloud Services - Amazon Redshift Example](https://t.ly/Fvqo)
-- [AWS Cloud Services - Amazon Redshift Example](https://t.ly/Fvqo)
+- [AWS Cloud Services - AWS Snowflake](https://shorturl.ac/7an6s)
+- [AWS Cloud Services - Amazon Kubernetes Service](https://shorturl.ac/7an6w)  
+- [AWS Cloud Services - Amazon CodeWhisperer](https://shorturl.ac/7an6s)
+- [AWS Cloud Services - Amazon EC2 Auto Scaling](https://shorturl.ac/7an6x)
+- [AWS Cloud Services - How AWS Glue works](https://shorturl.ac/7an6y)
+- [AWS Cloud Services - AWS Data Analytics](https://shorturl.ac/7an70)
+
+- [AWS Cloud Services - AWS Data Analytics](https://shorturl.ac/7an70)
+  
+
 
 
 
@@ -112,6 +115,8 @@ I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁�
 •  [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://www.linkedin.com/posts/jananitv_awssummit2023-certificate-awscloud-activity-7074670499116564480-m7Y-?utm_source=share&utm_medium=member_desktop) <br />
 •  [AWS Video on Interviewing Senior AWS Architect (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop) <br />  
 •  [(𝟱 𝗸𝗲𝘆 𝗽𝗼𝗶𝗻𝘁𝘀 𝗩𝗶𝗱𝗲𝗼 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗔𝗪𝗦 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗯𝘆 𝗷𝗮𝗻𝗮𝗻𝗶𝘁𝘃)](https://www.linkedin.com/posts/jananitv_career-roadmap-to-start-aws-cloud-talk-with-activity-7041686111861039104-A9VF?utm_source=share&utm_medium=member_desktop)
+- [AWS Cloud Services - Demonstrated a video handson to create EC2 instance and interact with linux Commands ](https://shorturl.ac/7an71)
+
 
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 / Leader
 
