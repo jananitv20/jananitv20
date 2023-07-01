@@ -23,6 +23,7 @@ I secured university rank in the MCA full time program for the year 2021 - **Ran
 Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of study.
 
 **Profession** <br />
+
 **Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration & On-prem to Cloud Migration, I leverage my expertise in Sata architecture, analytics and AWS Services. 
 
 India Resident.
