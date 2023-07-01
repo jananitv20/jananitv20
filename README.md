@@ -52,7 +52,7 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - Data Bricks on AWS (Data Bricks on AWS)](https://shorturl.ac/7an5e)
 - [AWS Cloud Services - AWS S3 (S3 Core Concepts)](https://shorturl.ac/7an5f)
 - [AWS Cloud Services - AWS VPC and its Components Explained](https://rb.gy/1w872)
-- [AWS Cloud Services - (Lambda vs Glue)](https://shorturl.ac/7an5g)
+- [AWS Cloud Services - AWS Lambda vs Glue](https://shorturl.ac/7an5g)
 - [AWS Cloud Services - AWS Lambda Working flow](https://t.ly/79zZY)
 - [AWS Cloud Services - AWS SUMMIT](https://shorturl.ac/7an5k)
 - [AWS Cloud Services -  Amazon Athena and Redshift to Query]([https://shorturl.ac/7an5l)
