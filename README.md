@@ -116,7 +116,17 @@ How business can make Decision on chossing Databases in AWS <br />
 - [CTTE College for Women   - AWS Cloud , Career, AWS mini Projects](https://rb.gy/h791j)
 - [Jaya Engineering College - AWS Cloud , Career, AWS mini Projects](https://rb.gy/rru8x) <br />
   meetup image:
-<img width="55%" align="right" alt="Github" src="https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg"/>
+  
+
+<img src="[img01](https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg)" alt="Image 1" style="width:40%;">
+<img src="[img02](https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-07-01%20at%208.19.35%20PM.jpeg)" alt="Image 2" style="width:40%;">
+<img src="[image3](https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(1).jpeg)" alt="Image 3" style="width:40%;">
+<img src="[image4](https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(2).jpeg)" alt="Image 4" style="width:40%;">
+<img src="[image5](https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM.jpeg)" alt="Image 5" style="width:40%;">
+<img src="[image6](https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-07-01%20at%208.19.38%20PM.jpeg)" alt="Image 6" style="width:40%;">
+<img src="[image7](https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-07-01%20at%208.52.20%20PM.jpeg)" alt="Image 7" style="width:40%;">
+<img src="[image8](https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-07-01%20at%208.52.21%20PM.jpeg)" alt="Image 8" style="width:40%;">
+
 
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
@@ -124,9 +134,7 @@ How business can make Decision on chossing Databases in AWS <br />
 ## ROLE: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 @CloudnLoud Tech Community
 
 <P>
-I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 in Cloud Operatoins Category. I have been contributing to the communities by teaching AWS in simple ways and clarifying doubts with respect to AWS Data and the services to be used: <br />
-
-**Contributions**
+I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 in Cloud Operatoins Category. I have been contributing to the communities by teaching AWS in simple ways and clarifying doubts with respect to AWS Data and the services to be used:
 
 •  [My Technical AWS Event with AWS Ambassador alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/o3q7c) <br />
 •  [AWS SUMMIT Mumbai event certificate](https://www.linkedin.com/posts/jananitv_awssummit2023-certificate-awscloud-activity-7074670499116564480-m7Y-?utm_source=share&utm_medium=member_desktop)<br />
