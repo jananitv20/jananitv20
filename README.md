@@ -129,7 +129,8 @@ Having domain experience in BFSI , Healthcare.
 ## BLOGS
 
 - [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
-- [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://rb.gy/5t9of)   
+- [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://rb.gy/5t9of)
+- [AWS Cloud Services - 𝗔𝗪𝗦 𝗘𝗹𝗮𝘀𝘁𝗶𝗰 𝗕𝗲𝗮𝗻𝘀𝘁𝗮𝗹𝗸, 𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀)](https://rb.gy/nierj)
 - [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱)](https://medium.com/cloudnloud/ci-cd-pipeline-flow-explained-%EF%B8%8F-24fa6e26824f)
 - [Reviewed an AWS Article for a AWS Community Builder (𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿 𝗮 𝟯-𝘁𝗶𝗲𝗿 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲)](https://shorturl.ac/7an7f)          
 
@@ -164,12 +165,12 @@ How business can make Decision on chossing Databases in AWS <br />
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
 
-## ROLE: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 @CloudnLoud Tech Community
+## ROLE 1: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 @CloudnLoud Tech Community
 
 <P>
 I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 where I work on AWS POCs and explore the AWSservices. I have been contributing to the communities by AWS Posts and Blogs , Technical AWS meetups ,teaching AWS in simple ways and clarifying doubts with respect to AWS and the services
 
-- [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/7yap2)
+ - [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/7yap2)
 - [AWS SUMMIT Mumbai event certificate](https://rb.gy/7yap2)
 - [AWS 𝗩𝗶𝗱𝗲𝗼 on Interviewing Senior AWS Architect (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://rb.gy/f5dl9)
 - [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://rb.gy/soutj)
@@ -180,23 +181,28 @@ I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁�
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
 
 
-## ROLE: # 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿/ 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 - CLoud Data Specialist
+## ROLE: # 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿 - CLoud Data Specialist
 
 <P>
-I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team and Leading AWS Data team.
+I am part of 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 Core team and Leading AWS Data team.
 
-The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
+I Organzie tech talk and physical meetup shows also Travel to college to mentoe studnets to learn AWSCLOUD.
 
-The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
+The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas and upksill memebers in Generaative AI , ML . socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
 
-At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
+At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free tech sessions , technical trainings and technical discussions on various IT technologies & open source tools.
 
-# I'm Speaking and demonstrating at **Data/Gen AI/ML Labs India Community** along CloudnLoud Tech Community 
+# Meetup.com -
+- [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗺𝗲𝗲𝘁𝘂𝗽 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/fr13j)  
+- [𝗔𝗪𝗦 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀 on AWS Career guidance and its services](https://rb.gy/lzbrh )  
+I'm Speaking and demonstrating at 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆
 𝗧𝗼𝗽𝗶𝗰 : 𝗖𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗘𝗧𝗟 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁 𝘂𝘀𝗶𝗻𝗴 𝗔𝗪𝗦 𝗚𝗹𝘂𝗲
-
 - [AWS Cloud Services - AWS Glue](https://rb.gy/sdtmx)
 
 </p>
+
+# images :)
+
 
 # images :)
 
