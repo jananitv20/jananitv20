@@ -30,13 +30,13 @@ I secured University Rank in MCA a full time program in the year 2021 - **Rank 3
 Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of education.
 <br /> **𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧 -** <br />
 **Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration , On-prem to Cloud Migration. I leverage my expertise in AWS Data Architecture, AWS Data analytics , AWS Data Engineering and AWS Services.
-Also Volunteering Communities like 𝗖𝗹𝗼𝘂𝗱𝗻𝗟𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 (AWS Data user Group Bangalore).
-#AWS Speaker , Mentor , Contributor for Communities.
+Also Volunteering Communities like 𝗖𝗹𝗼𝘂𝗱𝗻𝗟𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆.
 
 👩‍💻I am incredibly passionate about 𝗔𝗪𝗦𝗖𝗹𝗼𝘂𝗱 and its transformative potential in the world of technology.The power and scalability it offers to businesses and its vast array of services continue to inspire me.  I am delighted to share that 𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. My Aim is to empower and nurture future #aws Leaders in the field of data.
 
-🚀 I am actively 𝗝𝗼𝘂𝗿𝗻𝗲𝘆𝗶𝗻𝗴 𝘁𝗼 𝘃𝗮𝗿𝗶𝗼𝘂𝘀 𝗖𝗼𝗹𝗹𝗲𝗴𝗲𝘀 𝘁𝗼 𝘀𝗵𝗮𝗽𝗲 𝘁𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗯𝗲 𝘀𝗸𝗶𝗹𝗹𝗲𝗱 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀 𝗶𝗻 #𝗮𝘄𝘀𝗰𝗹𝗼𝘂𝗱. Im open to travel and visit colleges I am eager to impart my knowledge and expertise to students.👩‍🎓
-It's a privilege to work with team who not only possesses technical expertise but also demonstrates outstanding interpersonal skills that positively impact both professional relationships and project outcomes.
+🚀 I am actively 𝗝𝗼𝘂𝗿𝗻𝗲𝘆𝗶𝗻𝗴 𝘁𝗼 𝘃𝗮𝗿𝗶𝗼𝘂𝘀 𝗖𝗼𝗹𝗹𝗲𝗴𝗲𝘀 𝘁𝗼 𝘀𝗵𝗮𝗽𝗲 𝘁𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗯𝗲 𝘀𝗸𝗶𝗹𝗹𝗲𝗱 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀 𝗶𝗻 #𝗔𝗪𝗦𝗖𝗹𝗼𝘂𝗱. Im open to travel and visit colleges I am eager to impart my knowledge and expertise to students.👩‍🎓
+
+I always love to learn - Unlearn - Relearn, Motivated to Share knowledge with peers, community and learn from them.
 
 India Resident.
 
@@ -146,7 +146,6 @@ How business can make Decision on chossing Databases in AWS <br />
 
   Meetup images:
   
-
 <div style="display:flex;">
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg" alt="Image 1" style="width:40%;">
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.35%20PM.jpeg" alt="Image 2" style="width:40%;">
@@ -166,9 +165,10 @@ How business can make Decision on chossing Databases in AWS <br />
 ## ROLE 1: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 @CloudnLoud Tech Community
 
 <P>
-I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 where I work on AWS POCs and explore the AWSservices. I have been contributing to the communities by AWS Posts and Blogs , Technical AWS meetups ,teaching AWS in simple ways and clarifying doubts with respect to AWS and the services
+I am part of CloudnLoud Tech Community as 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 where I work on AWS POCs and explore the AWSservices. I have been contributing to the communities by AWS Posts and Blogs , Technical AWS meetups ,teaching AWS in simple ways and clarifying doubts with respect to AWS and the services.
+We are part of this for good cause to save millions of Cancer children.
 
- - [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/7yap2)
+- [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/7yap2)
 - [AWS SUMMIT Mumbai event certificate](https://rb.gy/7yap2)
 - [AWS 𝗩𝗶𝗱𝗲𝗼 on Interviewing Senior AWS Architect (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://rb.gy/f5dl9)
 - [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://rb.gy/soutj)
@@ -179,16 +179,21 @@ I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁�
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
 
 
-## ROLE: # 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿 - CLoud Data Specialist
+## ROLE 2: # 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 , 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿  / 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 - CLoud Data Specialist
 
 <P>
 I am part of 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 Core team and Leading AWS Data team.
 
 I Organzie tech talk and physical meetup shows also Travel to college to mentoe studnets to learn AWSCLOUD.
 
-The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas and upksill memebers in Generaative AI , ML . socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
-
+The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas and upksill memebers in Generaative AI , ML . socialize and work together on advancing the present and future success of the project. 
 At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free tech sessions , technical trainings and technical discussions on various IT technologies & open source tools.
+
+# I am Leader and Co-organizer at CloudnLoud Data/Gen AL/ML Labbs India with around 1000 Followers
+
+<a href="https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 # Meetup.com -
 - [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗺𝗲𝗲𝘁𝘂𝗽 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/fr13j)  
