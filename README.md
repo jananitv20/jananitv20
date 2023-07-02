@@ -215,6 +215,7 @@ I'm Speaking and demonstrating at 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗�
   <img src="https://github.com/jananitv20/Meetups/blob/main/AWS%20SUMMIT.jpeg" alt="Image 10" style="width:30%;">
   <img src="https://github.com/jananitv20/Meetups/blob/main/ambas.jpeg" alt="Image 11" style="width:30%;">
   <img src="https://github.com/jananitv20/Meetups/blob/main/Jaya.jpeg" alt="Image 12" style="width:30%;">
+  <img src="https://github.com/jananitv20/Meetups/blob/main/Screenshot%202023-07-02%20210136.png" alt="Image 12" style="width:30%;"> 
   <img src="https://github.com/jananitv20/Meetups/blob/main/ctte.jpeg" alt="Image 13" style="width:30%;">
   <img src="https://github.com/jananitv20/Meetups/blob/main/boomi%20(2).jpeg" alt="Image 14" style="width:30%;">
   <img src="https://github.com/jananitv20/Meetups/blob/main/b2.jpeg" alt="Image 15" style="width:30%;">
