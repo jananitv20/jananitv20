@@ -192,11 +192,13 @@ The goal of our community is to bring together companies, leaders and profession
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
 
 # I'm Speaking and demonstrating at **Data/Gen AI/ML Labs India Community** along CloudnLoud Tech Community 
-𝗧𝗼𝗽𝗶𝗰 𝗖𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗘𝗧𝗟 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁 𝘂𝘀𝗶𝗻𝗴 𝗔𝗪𝗦 𝗚𝗹𝘂𝗲
+𝗧𝗼𝗽𝗶𝗰 : 𝗖𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗘𝗧𝗟 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁 𝘂𝘀𝗶𝗻𝗴 𝗔𝗪𝗦 𝗚𝗹𝘂𝗲
 
 - [AWS Cloud Services - AWS Glue](https://rb.gy/sdtmx)
 
 </p>
+
+# images :)
 
 <div style="display:flex;">
   <img src="https://github.com/jananitv20/Meetups/blob/main/AWS%20SUMMIT.jpeg" alt="Image 10" style="width:30%;">
