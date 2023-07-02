@@ -30,12 +30,12 @@ I secured University Rank in MCA a full time program in the year 2021 - **Rank 3
 Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of education.
 <br /> **𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧 -** <br />
 **Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration , On-prem to Cloud Migration. I leverage my expertise in AWS Data Architecture, AWS Data analytics , AWS Data Engineering and AWS Services.
-Also Volunteering Communities like **CloudnLoud Tech Community and Cloudnloud Data/Gen AI/ML Labs India Community**(AWS Data user Group Bangalore).
+Also Volunteering Communities like 𝗖𝗹𝗼𝘂𝗱𝗻𝗟𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 (AWS Data user Group Bangalore).
 #AWS Speaker , Mentor , Contributor for Communities.
 
-👩‍💻I am incredibly passionate about **AWSCloud** and its transformative potential in the world of technology.The power and scalability it offers to businesses and its vast array of services continue to inspire me.  I am delighted to share that **I am leading the AWS Data team in the esteemed Cloudnloud Tech Community**. My Aim is to empower and nurture future #aws Leaders in the field of data.
+👩‍💻I am incredibly passionate about 𝗔𝗪𝗦𝗖𝗹𝗼𝘂𝗱 and its transformative potential in the world of technology.The power and scalability it offers to businesses and its vast array of services continue to inspire me.  I am delighted to share that 𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. My Aim is to empower and nurture future #aws Leaders in the field of data.
 
-🚀 I am actively **journeying to various Colleges to shape the Future Generation to be skilled professionals in #awscloud** . Im open to travel and visit colleges I am eager to impart my knowledge and expertise to students.👩‍🎓
+🚀 I am actively 𝗝𝗼𝘂𝗿𝗻𝗲𝘆𝗶𝗻𝗴 𝘁𝗼 𝘃𝗮𝗿𝗶𝗼𝘂𝘀 𝗖𝗼𝗹𝗹𝗲𝗴𝗲𝘀 𝘁𝗼 𝘀𝗵𝗮𝗽𝗲 𝘁𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗯𝗲 𝘀𝗸𝗶𝗹𝗹𝗲𝗱 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀 𝗶𝗻 #𝗮𝘄𝘀𝗰𝗹𝗼𝘂𝗱. Im open to travel and visit colleges I am eager to impart my knowledge and expertise to students.👩‍🎓
 It's a privilege to work with team who not only possesses technical expertise but also demonstrates outstanding interpersonal skills that positively impact both professional relationships and project outcomes.
 
 India Resident.
