@@ -179,6 +179,7 @@ We are part of this for good cause to save millions of Cancer children.
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
 
 
+
 ## ROLE 2: # 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆, 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿  / 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 - CLoud Data Specialist
 
 <P>
@@ -193,6 +194,10 @@ At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free tech sessions , 
 
 <a href="https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders" target="_blank">
 <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/company/aws-data-user-group-bangalore" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 # Meetup.com -
