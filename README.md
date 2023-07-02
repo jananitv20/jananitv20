@@ -168,12 +168,12 @@ How business can make Decision on chossing Databases in AWS <br />
 I am part of CloudnLoud Tech Community as 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 where I work on AWS POCs and explore the AWSservices. I have been contributing to the communities by AWS Posts and Blogs , Technical AWS meetups ,teaching AWS in simple ways and clarifying doubts with respect to AWS and the services.
 We are part of this for good cause to save millions of Cancer children.
 
-- [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/7yap2)
-- [AWS SUMMIT Mumbai event certificate](https://rb.gy/7yap2)
 - [AWS 𝗩𝗶𝗱𝗲𝗼 on Interviewing Senior AWS Architect (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://rb.gy/f5dl9)
-- [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://rb.gy/soutj)
 - [My 𝗩𝗶𝗱𝗲𝗼 𝗼𝗻 𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝘀𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗰𝗮𝗿𝗲𝗲𝗿 in Amazon Web Service -AWS ](https://rb.gy/5xqml)
 - [I 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲𝗱 𝗮 𝘃𝗶𝗱𝗲𝗼 𝗵𝗮𝗻𝗱𝘀𝗼𝗻 to create 𝗔𝗪𝗦 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 and interact with linux Commands ](https://shorturl.ac/7an71)
+- [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://rb.gy/soutj)
+- [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/7yap2)
+- [AWS SUMMIT Mumbai event certificate](https://rb.gy/7yap2)
 - [AWS Cloud Certification - Roadmap to certification and levels](https://rb.gy/xop4e)
 - [AWS Cloud Services - 6 Reasons why Cloud Computing is Future](https://shorturl.ac/7an7i)
 - [My Oscar Award from AWS Community Builder](https://rb.gy/vcu3h)
