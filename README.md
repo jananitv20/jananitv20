@@ -29,7 +29,7 @@ Having 4+ years of professional experience in IT with Masters education (MCA),
 I secured University Rank in MCA a full time program in the year 2021 - **Rank 3**.
 Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of education.
 <br /> **𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧 -** <br />
-**Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration , On-prem to Cloud Migration. I leverage my expertise in AWS Data Architecture, AWS Data analytics ,AWS Data Engineering and AWS Services.
+**Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration , On-prem to Cloud Migration. I leverage my expertise in AWS Data Architecture, AWS Data analytics , AWS Data Engineering and AWS Services.
 Also Volunteering Communities like **CloudnLoud Tech Community and AWS Data user Group Bangalore**(Cloudnloud Data/Gen AI/ML Labs India).
 AWS Speaker , Mentor , Contributor for Communities.
 
@@ -187,13 +187,18 @@ The goal of our community is to bring together companies, leaders and profession
 
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
 
+# Speaking and demonstrating at **Data/Gen AI/ML Labs India Community** along CloudnLoud Tech Community on Topic Creating ETL pipeline for Business insight using AWS Glue
+- [AWS Cloud Services - AWS Glue](https://rb.gy/sdtmx)
+
 </p>
 
 <div style="display:flex;">
   <img src="https://github.com/jananitv20/Meetups/blob/main/AWS%20SUMMIT.jpeg" alt="Image 10" style="width:30%;">
   <img src="https://github.com/jananitv20/Meetups/blob/main/ambas.jpeg" alt="Image 11" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/boomi%20(2).jpeg" alt="Image 12" style="width:30%;">	
-  <img src="https://github.com/jananitv20/Meetups/blob/main/b2.jpeg" alt="Image 13" style="width:30%;">
+  <img src="https://github.com/jananitv20/Meetups/blob/main/Jaya.jpeg" alt="Image 12" style="width:30%;">
+  <img src="https://github.com/jananitv20/Meetups/blob/main/ctte.jpeg" alt="Image 13" style="width:30%;">
+  <img src="https://github.com/jananitv20/Meetups/blob/main/boomi%20(2).jpeg" alt="Image 14" style="width:30%;">
+  <img src="https://github.com/jananitv20/Meetups/blob/main/b2.jpeg" alt="Image 15" style="width:30%;">
 </div>
 
 # Cloudnloud Community 2022 Free Programs
