@@ -150,7 +150,6 @@ How business can make Decision on chossing Databases in AWS <br />
 <div style="display:flex;">
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg" alt="Image 1" style="width:40%;">
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.35%20PM.jpeg" alt="Image 2" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(1).jpeg" alt="Image 3" style="width:40%;">
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(2).jpeg" alt="Image 4" style="width:40%;">
 </div>
 
@@ -158,8 +157,7 @@ How business can make Decision on chossing Databases in AWS <br />
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM.jpeg" alt="Image 5" style="width:40%;">
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.38%20PM.jpeg" alt="Image 6" style="width:40%;">
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.52.20%20PM.jpeg" alt="Image 7" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.52.21%20PM.jpeg" alt="Image 8" style="width:40%;">
-</div>
+  </div>
 
 
 
