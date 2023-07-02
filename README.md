@@ -29,11 +29,12 @@ Having 4+ years of professional experience in IT with Masters education (MCA),
 I secured University Rank in MCA a full time program in the year 2021 - **Rank 3**
 Topping the university in academics is a significant accomplishment that reflects my commitment to learning and attaining exceptional results in my field of education.
 <br /> **𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧 -** <br />
-**Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration & On-prem to Cloud Migration, I leverage my expertise in Data architecture, Data analytics , Data Engineering and AWS Services. 
-Also Volunteering CloudnLoud Tech Community and AWS Data user Group Bangalore. <br />
+**Working as AWS Data Engineer at TCS** - AWS Cloud & Data. Helped customers with Data Migration & On-prem to Cloud Migration, I leverage my expertise in Data architecture, Data analytics , Data Engineering and AWS Services.
+Also Volunteering Communities like **CloudnLoud Tech Community and AWS Data user Group Bangalore**.
 
 👩‍💻I am incredibly passionate about **AWS Cloud** and its transformative potential in the world of technology.The power and scalability it offers to businesses and its vast array of services continue to inspire me.  I am delighted to share that **I am leading the AWS Data team in the esteemed Cloudnloud Tech Community**. My Aim is to empower and nurture future #aws Leaders in the field of data.
-🚀 🌱I am actively **journeying to various colleges to shape the Future Generation to be skilled professionals in #awscloud** . Im open to travel and visit colleges I am eager to impart my knowledge and expertise to students.👩‍🎓
+
+🚀 I am actively **journeying to various colleges to shape the Future Generation to be skilled professionals in #awscloud** . Im open to travel and visit colleges I am eager to impart my knowledge and expertise to students.👩‍🎓
 It's a privilege to work with team who not only possesses technical expertise but also demonstrates outstanding interpersonal skills that positively impact both professional relationships and project outcomes.
 
 India Resident.
@@ -43,16 +44,16 @@ Having domain experience in BFSI , Healthcare.
 
 ## 𝐓ECHNICAL SKILLS
 
-•	AWS, DevOps, CI/CD <br />
-•	AWS Lambda, S3, Glue,Snowflake, EMR, Sagemaker,DynamoDB, RDS, Athena, Redshift, IAM, VPC
-•	Python, Terraform, PowerShell <br />
-•	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
-•       JIRA, HP ALM, ServiceNow <br />
-•       Programming : Python , SQL, Linux <br />
-•      Agile Service Delivery <br /> 
+• AWS, DevOps, CI/CD <br />
+• AWS Lambda, S3, Glue,Snowflake, EMR, Sagemaker,DynamoDB, RDS, Athena, Redshift, IAM, VPC
+• Python, Terraform, PowerShell <br />
+• Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
+• JIRA, HP ALM, ServiceNow <br />
+• Programming : Python , SQL, Linux <br />
+• Agile Service Delivery <br /> 
 
 
-## Connect with US! 
+## Connect with Me & Community 🤝🏻! 
 <a href="https://github.com/jananitv20/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -67,7 +68,7 @@ Having domain experience in BFSI , Healthcare.
 
 ## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
 
-  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - Connect with me via Linkedin for consistent contents on AWS
 - [AWS Cloud Services - Data Bricks on AWS (Data Bricks on AWS)](https://shorturl.ac/7an5e)
 - [AWS Cloud Services - AWS S3 (S3 Core Concepts)](https://shorturl.ac/7an5f)
 - [AWS Cloud Services - AWS VPC and its Components Explained](https://rb.gy/1w872)
@@ -133,10 +134,11 @@ How business can make Decision on chossing Databases in AWS <br />
 
 ## 𝗠𝘆 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝘁𝗼 𝗺𝗲𝗻𝘁𝗼𝗿 𝗬𝗼𝘂𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗔𝗪𝗦𝗖𝗟𝗢𝗨𝗗
 
-**AWS Resource Person for College**
-- [CTTE College for Women   - AWS Cloud , Career, AWS mini Projects](https://rb.gy/h791j)
-- [Jaya Engineering College - AWS Cloud , Career, AWS mini Projects](https://rb.gy/rru8x) <br />
-  meetup image:
+**AWS Resource Person for Colleges**
+- [CTTE College for Women   - AWS Cloud , AWS Career, AWS mini Projects](https://rb.gy/h791j)
+- [Jaya Engineering College - AWS Cloud , AWS Career, AWS mini Projects](https://rb.gy/rru8x) <br />
+
+  Meetup image:
   
 
 <div style="display:flex;">
@@ -160,7 +162,7 @@ How business can make Decision on chossing Databases in AWS <br />
 ## ROLE: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 @CloudnLoud Tech Community
 
 <P>
-I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 in Cloud Operatoins Category. I have been contributing to the communities by teaching AWS in simple ways and clarifying doubts with respect to AWS Data and the services to be used:
+I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 in Cloud Operatoins Category. I have been contributing to the communities by AWS Posts and Blogs ,teaching AWS in simple ways and clarifying doubts with respect to AWS Data and the services
 
 •  [My Technical AWS Event with AWS Ambassador alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/o3q7c) <br />
 •  [AWS SUMMIT Mumbai event certificate](https://www.linkedin.com/posts/jananitv_awssummit2023-certificate-awscloud-activity-7074670499116564480-m7Y-?utm_source=share&utm_medium=member_desktop)<br />
@@ -176,7 +178,7 @@ I am part of # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁�
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)  
 
 
-## ROLE: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / CLoud Data Specialist
+## ROLE: # 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿/ 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 - CLoud Data Specialist
 
 <P>
 I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team and Leading AWS Data team.
