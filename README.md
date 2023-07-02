@@ -125,9 +125,9 @@ Having domain experience in BFSI , Healthcare.
 ## BLOGS
 
 - [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
-- [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://medium.com/@JananiTV/aws-glue-explained-the-etl-process-in-cloud-679241d2db9b)   
+- [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://rb.gy/5t9of)   
 - [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱)](https://medium.com/cloudnloud/ci-cd-pipeline-flow-explained-%EF%B8%8F-24fa6e26824f)
-- [Reviewed an AWS Article (𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿 𝗮 𝟯-𝘁𝗶𝗲𝗿 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲)](https://shorturl.ac/7an7f)          
+- [Reviewed an AWS Article for a AWS Community Builder (𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿 𝗮 𝟯-𝘁𝗶𝗲𝗿 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲)](https://shorturl.ac/7an7f)          
 
   **Upcoming Blog** <br />
 How business can make Decision on chossing Databases in AWS <br />
@@ -187,7 +187,9 @@ The goal of our community is to bring together companies, leaders and profession
 
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
 
-# Speaking and demonstrating at **Data/Gen AI/ML Labs India Community** along CloudnLoud Tech Community on Topic Creating ETL pipeline for Business insight using AWS Glue
+# I'm Speaking and demonstrating at **Data/Gen AI/ML Labs India Community** along CloudnLoud Tech Community 
+𝗧𝗼𝗽𝗶𝗰 𝗖𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗘𝗧𝗟 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁 𝘂𝘀𝗶𝗻𝗴 𝗔𝗪𝗦 𝗚𝗹𝘂𝗲
+
 - [AWS Cloud Services - AWS Glue](https://rb.gy/sdtmx)
 
 </p>
@@ -199,6 +201,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
   <img src="https://github.com/jananitv20/Meetups/blob/main/ctte.jpeg" alt="Image 13" style="width:30%;">
   <img src="https://github.com/jananitv20/Meetups/blob/main/boomi%20(2).jpeg" alt="Image 14" style="width:30%;">
   <img src="https://github.com/jananitv20/Meetups/blob/main/b2.jpeg" alt="Image 15" style="width:30%;">
+  <img src="https://github.com/jananitv20/Meetups/blob/main/aws%20interview.png" alt="Image 16" style="width:30%;">
 </div>
 
 # Cloudnloud Community 2022 Free Programs
