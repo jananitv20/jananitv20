@@ -69,7 +69,7 @@ Having domain experience in BFSI , Healthcare.
 
 ## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
 
-  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - 🌟Connect with me via Linkedin **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** for consistent contents on AWS
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - 🌟Connect with me via Linkedin **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** for consistent contents & Learnings on AWS
 - [AWS Cloud Services - Data Bricks on AWS (Data Bricks on AWS)](https://shorturl.ac/7an5e)
 - [AWS Cloud Services - AWS S3 (S3 Core Concepts)](https://shorturl.ac/7an5f)
 - [AWS Cloud Services - AWS VPC and its Components Explained](https://rb.gy/1w872)
