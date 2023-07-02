@@ -140,7 +140,7 @@ How business can make Decision on chossing Databases in AWS <br />
 
 ## 𝗠𝘆 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝘁𝗼 𝗠𝗲𝗻𝘁𝗼𝗿 𝗬𝗼𝘂𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗔𝗪𝗦𝗖𝗟𝗢𝗨𝗗
 
-**AWS Resource Person for Colleges**
+𝗔𝗪𝗦 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗣𝗲𝗿𝘀𝗼𝗻 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲𝘀
 - [CTTE College for Women   - AWS Cloud , AWS Career, AWS mini Projects](https://rb.gy/h791j)
 - [Jaya Engineering College - AWS Cloud , AWS Career, AWS mini Projects](https://rb.gy/rru8x) <br />
 
@@ -179,17 +179,17 @@ We are part of this for good cause to save millions of Cancer children.
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
 
 
-## ROLE 2: # 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 , 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿  / 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 - CLoud Data Specialist
+## ROLE 2: # 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆, 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿  / 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 - CLoud Data Specialist
 
 <P>
 I am part of 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 Core team and Leading AWS Data team.
 
-I Organzie tech talk and physical meetup shows also Travel to college to mentoe studnets to learn AWSCLOUD.
+I Organzie tech talk and physical meetup shows , also Travel to college to mentor studnets to learn AWSCLOUD.
 
 The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas and upksill memebers in Generaative AI , ML . socialize and work together on advancing the present and future success of the project. 
 At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free tech sessions , technical trainings and technical discussions on various IT technologies & open source tools.
 
-# I am Leader and Co-organizer at CloudnLoud Data/Gen AL/ML Labbs India with around 1000 Followers
+# I am Leader and Co-organizer at CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
 
 <a href="https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -197,11 +197,10 @@ At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free tech sessions , 
 
 # Meetup.com -
 - [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗺𝗲𝗲𝘁𝘂𝗽 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/fr13j)  
-- [𝗔𝗪𝗦 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀 on AWS Career guidance and its services](https://rb.gy/lzbrh )  
+- [𝗔𝗪𝗦 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀 on AWS Career guidance and its services](https://rb.gy/lzbrh)
 I'm Speaking and demonstrating at 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆
 𝗧𝗼𝗽𝗶𝗰 : 𝗖𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗘𝗧𝗟 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁 𝘂𝘀𝗶𝗻𝗴 𝗔𝗪𝗦 𝗚𝗹𝘂𝗲
 - [AWS Cloud Services - AWS Glue](https://rb.gy/sdtmx)
-
 </p>
 
 # images :)
@@ -219,11 +218,8 @@ I'm Speaking and demonstrating at 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗�
   <img src="https://github.com/jananitv20/Meetups/blob/main/aws%20interview.png" alt="Image 16" style="width:30%;">
 </div>
 
-# Cloudnloud Community 2022 Free Programs
 
-- [Cloudnloud Community 2022 Free Programs](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/
-
-# AWS Cloud Free 2 months Internship - Week 1
+# AWS Cloud Free 2 months Internship - Week 1 (Content Contribution)
 
 - [Cloud DevOps Free 4 months UseCase RealTime Internship](https://youtu.be/V-2ME9qCGIk)
 - [Syllabus - Cloud DevOps Free 4 months UseCases Real-time Internship](https://youtu.be/8PsJG53-D6U)
