@@ -46,7 +46,7 @@ Having domain experience in BFSI , Healthcare.
 ## 𝐓ECHNICAL SKILLS
 
 • AWS, DevOps, CI/CD <br />
-• AWS Lambda, S3, Glue,Snowflake, EMR, Sagemaker,DynamoDB, RDS, Athena, Redshift, IAM, VPC
+• AWS Lambda, S3, Glue,Snowflake, EMR, Sagemaker,DynamoDB, RDS, Athena, Redshift, IAM, VPC <br />
 • Python, Terraform, PowerShell <br />
 • Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 • JIRA, HP ALM, ServiceNow <br />
