@@ -192,7 +192,7 @@ At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free tech sessions , 
 # I am Leader and Co-organizer at CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
 
 <a href="https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
 </a>
 
 # Meetup.com -
