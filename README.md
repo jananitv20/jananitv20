@@ -120,7 +120,7 @@ India Resident.
 - [AWS Cloud Services - AWS Service categories Roadmap](https://t.ly/Wkyf)
 - [AWS Cloud Services - AWS Steps to deploy and Manage application using Beanstalk](https://t.ly/gaXQ)
 - [AWS Cloud Services - How to use AWS Ealstic Beanstalk](https://shorturl.ac/7an7d)
-- [AWS Cloud Services -AWS Lambda now supports Maximun Concurrency for SQS as an Event source ](https://shorturl.ac/7an79)
+- [AWS Cloud Services -AWS Lambda now supports Maximun Concurrency for SQS as an Event source ](https://rb.gy/ga1pr)
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
 
   
