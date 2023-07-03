@@ -193,7 +193,7 @@ I am part of 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲�
 
 I Organzie tech talk and physical meetup shows , also Travel to college to mentor studnets to learn AWSCLOUD.
 
-The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas and upksill memebers in Generaative AI , ML . socialize and work together on advancing the present and future success of the project. 
+The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas and upksill memebers in Generaative AI , ML . . 
 At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free tech sessions , technical trainings and technical discussions on various IT technologies & open source tools.
 
 # I am Leader and Co-organizer at CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
