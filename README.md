@@ -91,7 +91,7 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - Amazon RDS Series](https://shorturl.ac/7an60)
 - [AWS Cloud Services - AWS Latest Availability zone and Geographic regions](https://shorturl.ac/7an6e)
 - [AWS Cloud Services - AWS Web Application Firewall](https://shorturl.ac/7an6g)
-- [AWS Cloud Services - Amazon ECS on AWS Gargate](https://shorturl.ac/7an68)
+- [AWS Cloud Services - Amazon ECS on AWS Fargate](https://shorturl.ac/7an68)
 - [AWS Cloud Services - AWS Elastic Beanstalk](https://shorturl.ac/7an77)
 - [AWS Cloud Services - AWS S3 Bucket Versioning with Example](https://rb.gy/m3bpz)  
 - [AWS Cloud Services - AWS DatawareHouse vs Data lake](https://shorturl.ac/7an63)
@@ -130,6 +130,7 @@ Having domain experience in BFSI , Healthcare.
 
 - [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
 - [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://rb.gy/79pay)
+- [AWS Cloud Services - Amazon QuickSight (𝗔𝗺𝗮𝘇𝗼𝗻 𝗤𝘂𝗶𝗰𝗸𝗦𝗶𝗴𝗵𝘁 — 𝗔 𝗖𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀)](https://rb.gy/ylglw)
 - [AWS Cloud Services - 𝗔𝗪𝗦 𝗘𝗹𝗮𝘀𝘁𝗶𝗰 𝗕𝗲𝗮𝗻𝘀𝘁𝗮𝗹𝗸, 𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀](https://rb.gy/0bko0)
 - [𝗔𝗪𝗦 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿](https://rb.gy/i3ej1)
 - [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱](https://rb.gy/dmhpo)
@@ -170,7 +171,8 @@ I am part of CloudnLoud Tech Community as 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼
 We are part of this for good cause to save millions of Cancer children.
 
 - [AWS 𝗩𝗶𝗱𝗲𝗼 on Interviewing Senior AWS Architect (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://rb.gy/f5dl9)
-- [My 𝗩𝗶𝗱𝗲𝗼 𝗼𝗻 𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝘀𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗰𝗮𝗿𝗲𝗲𝗿 in Amazon Web Service -AWS ](https://rb.gy/5xqml)
+- [My 𝘼𝙒𝙎 𝗩𝗶𝗱𝗲𝗼 𝗼𝗻 𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝘀𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗰𝗮𝗿𝗲𝗲𝗿 in Amazon Web Service -AWS ](https://rb.gy/5xqml)
+- [My 𝘼𝙒𝙎 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼 𝘃𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗦𝟯 𝘁𝗿𝗶𝗴𝗴𝗲𝗿 𝘃𝗶𝗮 𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗺 ](https://youtu.be/rtkR8wdxEbw)
 - [I 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲𝗱 𝗮 𝘃𝗶𝗱𝗲𝗼 𝗵𝗮𝗻𝗱𝘀𝗼𝗻 to create 𝗔𝗪𝗦 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 and interact with linux Commands ](https://shorturl.ac/7an71)
 - [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://rb.gy/soutj)
 - [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/7yap2)
@@ -203,8 +205,7 @@ At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free tech sessions , 
 
 # Meetup.com -
 - [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗺𝗲𝗲𝘁𝘂𝗽 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/fr13j)  
-- [𝗔𝗪𝗦 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀 on AWS Career guidance and its services](https://rb.gy/lzbrh)
-  
+- [𝗔𝗪𝗦 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀 on AWS Career guidance and its services](https://rb.gy/lzbrh)  
 I'm Speaking and demonstrating at 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 <br />
 𝗧𝗼𝗽𝗶𝗰 : 𝗖𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗘𝗧𝗟 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁 𝘂𝘀𝗶𝗻𝗴 𝗔𝗪𝗦 𝗚𝗹𝘂𝗲
 - [AWS Cloud Services - AWS Glue](https://rb.gy/sdtmx)
