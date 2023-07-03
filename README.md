@@ -32,15 +32,14 @@ Topping the university in academics is a significant accomplishment that reflect
 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿  - AWS Cloud & Data. Helped customers with Data Migration , On-prem to Cloud Migration. I leverage my expertise in AWS Data Architecture, AWS Data analytics , AWS Data Engineering and AWS Services.
 Also Volunteering Communities like 𝗖𝗹𝗼𝘂𝗱𝗻𝗟𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆.
 
-👩‍💻I am incredibly passionate about 𝗔𝗪𝗦𝗖𝗹𝗼𝘂𝗱 and its transformative potential in the world of technology.The power and scalability it offers to businesses and its vast array of services continue to inspire me.  I am delighted to share that 𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. My Aim is to empower and nurture future #aws Leaders in the field of AWS data Engineering.
+👩‍💻I am incredibly passionate about 𝗔𝗪𝗦𝗖𝗹𝗼𝘂𝗱 and its transformative potential in the world of technology.
+I am delighted to share that 𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. My Aim is to empower and nurture future #aws Leaders in the field of AWS data Engineering.
 
 🚀 I am actively 𝗝𝗼𝘂𝗿𝗻𝗲𝘆𝗶𝗻𝗴 𝘁𝗼 𝘃𝗮𝗿𝗶𝗼𝘂𝘀 𝗖𝗼𝗹𝗹𝗲𝗴𝗲𝘀 𝘁𝗼 𝘀𝗵𝗮𝗽𝗲 𝘁𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗯𝗲 𝘀𝗸𝗶𝗹𝗹𝗲𝗱 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀 𝗶𝗻 #𝗔𝗪𝗦𝗖𝗹𝗼𝘂𝗱. Im open to travel and visit colleges I am eager to impart my knowledge and expertise to students.👩‍🎓
 
 I always love to learn - Unlearn - Relearn, Motivated to Share knowledge with peers, community and learn from them.
 
 India Resident.
-
-Having domain experience in BFSI , Healthcare.
 
 
 ## 𝐓ECHNICAL SKILLS
