@@ -78,7 +78,9 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - AWS S3 (S3 Core Concepts)](https://shorturl.ac/7an5f)
 - [AWS Cloud Services - AWS VPC and its Components Explained](https://rb.gy/1w872)
 - [AWS Cloud Services - AWS Lambda vs Glue](https://shorturl.ac/7an5g)
+- [AWS Cloud Services - AWS EC2 crisp Explanation](https://rb.gy/t103l)
 - [AWS Cloud Services - AWS Lambda Working flow](https://t.ly/79zZY)
+- [AWS Cloud Services - Types of S3 storage classes](https://rb.gy/blhpe)
 - [AWS Cloud Services - AWS SUMMIT](https://shorturl.ac/7an5k)
 - [AWS Cloud Services - Amazon Athena and Redshift to Query](https://shorturl.ac/7an5l)
 - [AWS Cloud Services - NoSQL database series in AWS](https://shorturl.ac/7an5n)
@@ -123,16 +125,17 @@ Having domain experience in BFSI , Healthcare.
 - [AWS Cloud Services - AWS Steps to deploy and Manage application using Beanstalk](https://t.ly/gaXQ)
 - [AWS Cloud Services - How to use AWS Ealstic Beanstalk](https://shorturl.ac/7an7d)
 - [AWS Cloud Services -AWS Lambda now supports Maximun Concurrency for SQS as an Event source ](https://shorturl.ac/7an79)
-- [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)  
+- [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
 
+  
 
 ## BLOGS
 
-- [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
+- [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫- 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
 - [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://rb.gy/79pay)
 - [AWS Cloud Services - Amazon QuickSight (𝗔𝗺𝗮𝘇𝗼𝗻 𝗤𝘂𝗶𝗰𝗸𝗦𝗶𝗴𝗵𝘁 — 𝗔 𝗖𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀)](https://rb.gy/ylglw)
+- - [AWS Cloud Services - 𝗔𝗪𝗦 𝗥𝗲𝗱𝘀𝗵𝗶𝗳𝘁 , How to work with streaming data in Redshift](https://rb.gy/9ja9i)
 - [AWS Cloud Services - 𝗔𝗪𝗦 𝗘𝗹𝗮𝘀𝘁𝗶𝗰 𝗕𝗲𝗮𝗻𝘀𝘁𝗮𝗹𝗸, 𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀](https://rb.gy/0bko0)
-- [𝗔𝗪𝗦 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿](https://rb.gy/i3ej1)
 - [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱](https://rb.gy/dmhpo)
 - [Reviewed an AWS Article for a AWS Community Builder (𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿 𝗮 𝟯-𝘁𝗶𝗲𝗿 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲)](https://shorturl.ac/7an7f)
         
