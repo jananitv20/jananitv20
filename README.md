@@ -46,12 +46,10 @@ India Resident.
 
 • AWS, DevOps, CI/CD <br />
 • AWS Lambda, S3, Glue,Snowflake, EMR, Sagemaker,DynamoDB, RDS, Athena, Redshift, IAM, VPC <br />
-• Python, Terraform, PowerShell <br />
+• Programming : Python , SQL, Linux <br />
 • Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 • JIRA, HP ALM, ServiceNow <br />
-• Programming : Python , SQL, Linux <br />
 • Agile Service Delivery <br /> 
-
 
 ## Connect with Me & Community 🤝🏻! 
 <a href="https://github.com/jananitv20/" target="_blank">
