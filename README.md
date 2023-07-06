@@ -66,6 +66,8 @@ India Resident.
 </a> 
 
 :mailbox: Mail - steffi.janani@gmail.com
+📝 I regularly write AWS Blogs on [https://medium.com/@JananiTV](https://medium.com/@JananiTV)
+📝 I consistently share my AWS Contents & Learnings [https://www.linkedin.com/in/jananitv/](https://www.linkedin.com/in/jananitv/)
 
 ## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
 
