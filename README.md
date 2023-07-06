@@ -65,9 +65,9 @@ India Resident.
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
 
-:mailbox: Mail - steffi.janani@gmail.com
-📝 I regularly write AWS Blogs on [https://medium.com/@JananiTV](https://medium.com/@JananiTV)
-📝 I consistently share my AWS Contents & Learnings [https://www.linkedin.com/in/jananitv/](https://www.linkedin.com/in/jananitv/)
+:mailbox: Mail - steffi.janani@gmail.com <br />
+📝 I regularly write AWS Blogs on [https://medium.com/@JananiTV](https://medium.com/@JananiTV) <br />
+📝 I consistently share my AWS Contents & Learnings [https://www.linkedin.com/in/jananitv/](https://www.linkedin.com/in/jananitv/) <br />
 
 ## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
 
