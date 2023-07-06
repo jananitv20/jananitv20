@@ -153,7 +153,9 @@ How business can make Decision on chossing Databases in AWS <br />
 <div style="display:flex;">
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg" alt="Image 1" style="width:40%;">
   <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.35%20PM.jpeg" alt="Image 2" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(2).jpeg" alt="Image 4" style="width:40%;">
+  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(2).jpeg" alt="Image 3" style="width:40%;">
+  <img src="https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-06-29%20at%201.09.13%20PM.jpeg" alt="Image 4" style="width:40%;">
+ 
 </div>
 
 <div style="display:flex;">
