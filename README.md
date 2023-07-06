@@ -125,7 +125,7 @@ India Resident.
 - [AWS Cloud Services -AWS Lambda now supports Maximun Concurrency for SQS as an Event source ](https://rb.gy/ga1pr)
 - [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
 - [AWS Cloud  - 𝗦𝗲𝗹𝗲𝗰𝘁𝗲𝗱 𝗳𝗼𝗿 𝗔𝗪𝗦 𝗦𝗵𝗲𝗕𝘂𝗶𝗹𝗱𝘀 𝗠𝗲𝗻𝘁𝗼𝗿𝘀𝗵𝗶𝗽 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 𝟮𝟬𝟮𝟯](https://www.linkedin.com/posts/jananitv_shebuilds-awscloud-knowledge-activity-7082705128964706304-5zJe?utm_source=share&utm_medium=member_desktop)
-- [AWS Cloud Services - AWS Athena Working Flow Explained]([https://rb.gy/qe7gb](https://www.linkedin.com/posts/jananitv_connections-100daysofclouddatachallenge-data-activity-7082393837465210880-QzsE?utm_source=share&utm_medium=member_desktop))
+- [AWS Cloud Services - AWS Athena Working Flow Explained]([https://rb.gy/qe7gb](https://www.linkedin.com/posts/jananitv_connections-100daysofclouddatachallenge-data-activity-7082393837465210880-QzsE?utm_source=share&utm_medium=member_desktop)
   
 
 ## BLOGS
