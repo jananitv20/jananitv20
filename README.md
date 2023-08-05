@@ -175,7 +175,7 @@ I am part of CloudnLoud Tech Community as 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼
 We are part of this for good cause to save millions of Cancer children.
 
 - [My 𝘼𝙒𝙎 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼-𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗦𝟯 𝘁𝗿𝗶𝗴𝗴𝗲𝗿 𝘃𝗶𝗮 𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗺 ](https://youtu.be/rtkR8wdxEbw)
-- [My 𝘼𝙒𝙎 𝗩𝗶𝗱𝗲𝗼 𝗼𝗻 𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝘀𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗰𝗮𝗿𝗲𝗲𝗿 in Amazon Web Service -AWS ](https://rb.gy/5xqml)
+- [My 𝘼𝙒𝙎 𝗩𝗶𝗱𝗲𝗼 𝗼𝗻 𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝘀𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗰𝗮𝗿𝗲𝗲𝗿 in Amazon Web Service -AWS ](https://www.linkedin.com/posts/jananitv_connections-letsgrowtogether-cloudnloud-activity-7024263532628123648-bCUq?utm_source=share&utm_medium=member_desktop)
 - [AWS 𝗩𝗶𝗱𝗲𝗼 on Interviewing Senior 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩 𝙘𝙪𝙢 𝘼𝙒𝙎 𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 𝘽𝙪𝙞𝙡𝙙𝙚𝙧 (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://rb.gy/f5dl9) 
 - [I 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲𝗱 𝗮 𝗩𝗶𝗱𝗲𝗼 𝗵𝗮𝗻𝗱𝘀𝗼𝗻 to create 𝗔𝗪𝗦 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 and interact with linux Commands ](https://shorturl.ac/7an71)
 - [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://rb.gy/soutj)
