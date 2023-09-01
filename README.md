@@ -69,6 +69,8 @@ India Resident.
 📝 I regularly write AWS Blogs on [https://medium.com/@JananiTV](https://medium.com/@JananiTV) <br />
 📝 I consistently share my AWS Contents [https://www.linkedin.com/in/jananitv/](https://www.linkedin.com/in/jananitv/) <br />
 
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=jananitv20&show_icons=true&theme=white)
+
 ## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
 
   𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗔𝗪𝗦 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - 🌟Connect with me via Linkedin **[Janani Thesu Vasudevan](https://www.linkedin.com/in/jananitv/)** for consistent Learnings & contents on AWS
