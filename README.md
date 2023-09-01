@@ -50,24 +50,25 @@ India Resident.
 • JIRA, HP ALM, ServiceNow <br />
 • Agile Service Delivery <br /> 
 
-## Connect with Me & Community 🤝🏻! 
-<a href="https://github.com/jananitv20/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+## 🌐 Connect with Me & Community 🤝🏻! 
 
-<a href="https://www.linkedin.com/in/jananitv/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jananitv)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@JananiTV)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:steffi.janani@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CloudnLoud)
 
-<a href="https://www.instagram.com/janani_vasudevan20/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</div>
 
-<a href="https://www.youtube.com/user/cloudnloud" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a> 
+<div align="center">
 
-:mailbox: Mail - steffi.janani@gmail.com <br />
-📝 I regularly write AWS Blogs on [https://medium.com/@JananiTV](https://medium.com/@JananiTV) <br />
-📝 I consistently share my AWS Contents [https://www.linkedin.com/in/jananitv/](https://www.linkedin.com/in/jananitv/) <br />
+## 👁️ Profile Views📅
+
+[![Profile Views](https://komarev.com/ghpvc/?username=iamrajaram1&color=blue)](https://github.com/jananitv20)
+[![GitHub stars](https://img.shields.io/github/stars/jananitv20/jananitv20?style=social)](https://github.com/iamrajaram1/jananitv20)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jananitv20/jananitv20)](https://github.com/jananitv20/jananitv20/commits/master)
+
+</div>
+
 
 ## My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS) 
 
